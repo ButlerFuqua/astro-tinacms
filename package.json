@@ -10,6 +10,8 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^2.4.1"
+    "@tinacms/cli": "^1.5.14",
+    "astro": "^2.4.1",
+    "tinacms": "^1.5.6"
   }
 }
